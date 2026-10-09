@@ -2,57 +2,15 @@
   "instructors": [
     {
       "id": "1",
-      "name": "Mohammed Al-Faqeeh",
-      "email": "mohammed@gmail.com",
-      "password": "123456"
+      "name": "Hind Bundoq",
+      "email": "demo@edutrack.com",
+      "password": "demo1234"
     },
     {
       "id": "2",
       "name": "Ahmad Ali",
       "email": "ahmad@gmail.com",
       "password": "123456"
-    },
-    {
-      "name": "hindbondoq",
-      "email": "hindbundoq@gmail.com",
-      "password": "12345678",
-      "id": "k1AaDQAfwnw"
-    },
-    {
-      "name": "Hind Bundoq",
-      "email": "hindbundoq2002@gmail.com",
-      "password": "hind1234",
-      "id": "99J0zG6z6eQ"
-    },
-    {
-      "name": "test",
-      "email": "test@gmail.com",
-      "password": "123456",
-      "id": "LtgoK94DTb0"
-    },
-    {
-      "name": "Mustafa joudeh",
-      "email": "mjouda35@gmail.com",
-      "password": "123456",
-      "id": "k6uxbeBT0Rc"
-    },
-    {
-      "name": "Mustafa",
-      "email": "mjouda5@gmail.com",
-      "password": "123456",
-      "id": "R9_H5aNDJyg"
-    },
-    {
-      "name": "Mustafa joudeh",
-      "email": "mjou@gmail.com",
-      "password": "123456",
-      "id": "I_fgb-yQA7o"
-    },
-    {
-      "name": "gasfghafdsg",
-      "email": "gfsagfsd@ex.co",
-      "password": "123456",
-      "id": "gMbJrJP50wU"
     }
   ],
   "students": [
@@ -86,6 +44,18 @@
         },
         {
           "date": "2026-10-03",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-06",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-07",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-08",
           "status": "present"
         }
       ],
@@ -122,6 +92,18 @@
         {
           "date": "2026-10-03",
           "status": "present"
+        },
+        {
+          "date": "2026-10-06",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-07",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-08",
+          "status": "present"
         }
       ],
       "feedback": []
@@ -156,6 +138,18 @@
         },
         {
           "date": "2026-10-03",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-06",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-07",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-08",
           "status": "present"
         }
       ],
@@ -192,6 +186,18 @@
         {
           "date": "2026-10-03",
           "status": "absent"
+        },
+        {
+          "date": "2026-10-06",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-07",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-08",
+          "status": "present"
         }
       ],
       "feedback": []
@@ -227,6 +233,18 @@
         {
           "date": "2026-10-03",
           "status": "present"
+        },
+        {
+          "date": "2026-10-06",
+          "status": "absent"
+        },
+        {
+          "date": "2026-10-07",
+          "status": "absent"
+        },
+        {
+          "date": "2026-10-08",
+          "status": "absent"
         }
       ],
       "feedback": []
@@ -262,6 +280,18 @@
         {
           "date": "2026-10-03",
           "status": "absent"
+        },
+        {
+          "date": "2026-10-06",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-07",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-08",
+          "status": "present"
         }
       ],
       "feedback": []
@@ -296,6 +326,18 @@
         },
         {
           "date": "2026-10-03",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-06",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-07",
+          "status": "absent"
+        },
+        {
+          "date": "2026-10-08",
           "status": "present"
         }
       ],
@@ -332,6 +374,18 @@
         {
           "date": "2026-10-03",
           "status": "present"
+        },
+        {
+          "date": "2026-10-06",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-07",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-08",
+          "status": "present"
         }
       ],
       "feedback": []
@@ -366,6 +420,18 @@
         },
         {
           "date": "2026-10-03",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-06",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-07",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-08",
           "status": "present"
         }
       ],
@@ -402,6 +468,18 @@
         {
           "date": "2026-10-03",
           "status": "present"
+        },
+        {
+          "date": "2026-10-06",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-07",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-08",
+          "status": "present"
         }
       ],
       "feedback": []
@@ -436,6 +514,18 @@
         },
         {
           "date": "2026-10-03",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-06",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-07",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-08",
           "status": "present"
         }
       ],
@@ -472,6 +562,18 @@
         {
           "date": "2026-10-03",
           "status": "present"
+        },
+        {
+          "date": "2026-10-06",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-07",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-08",
+          "status": "present"
         }
       ],
       "feedback": []
@@ -506,6 +608,18 @@
         },
         {
           "date": "2026-10-03",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-06",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-07",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-08",
           "status": "present"
         }
       ],
@@ -573,6 +687,18 @@
         {
           "date": "2026-10-03",
           "status": "present"
+        },
+        {
+          "date": "2026-10-06",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-07",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-08",
+          "status": "present"
         }
       ],
       "feedback": []
@@ -607,6 +733,18 @@
         },
         {
           "date": "2026-10-03",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-06",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-07",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-08",
           "status": "present"
         }
       ],
@@ -643,6 +781,18 @@
         {
           "date": "2026-10-03",
           "status": "present"
+        },
+        {
+          "date": "2026-10-06",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-07",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-08",
+          "status": "present"
         }
       ],
       "feedback": []
@@ -677,6 +827,18 @@
         },
         {
           "date": "2026-10-03",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-06",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-07",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-08",
           "status": "present"
         }
       ],
@@ -740,6 +902,18 @@
         {
           "date": "2026-10-03",
           "status": "present"
+        },
+        {
+          "date": "2026-10-06",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-07",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-08",
+          "status": "present"
         }
       ],
       "feedback": []
@@ -774,6 +948,18 @@
         },
         {
           "date": "2026-10-03",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-06",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-07",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-08",
           "status": "present"
         }
       ],
@@ -810,6 +996,18 @@
         {
           "date": "2026-10-03",
           "status": "present"
+        },
+        {
+          "date": "2026-10-06",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-07",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-08",
+          "status": "present"
         }
       ],
       "feedback": []
@@ -845,85 +1043,21 @@
         {
           "date": "2026-10-03",
           "status": "present"
+        },
+        {
+          "date": "2026-10-06",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-07",
+          "status": "present"
+        },
+        {
+          "date": "2026-10-08",
+          "status": "absent"
         }
       ],
       "feedback": []
-    },
-    {
-      "name": "test",
-      "email": "test@gmail.com",
-      "course": "JavaScript",
-      "status": "active",
-      "phone": "07722321515",
-      "address": "test",
-      "age": 22,
-      "major": "cis",
-      "instructorId": null,
-      "attendance": [
-        {
-          "date": "2026-10-02",
-          "status": "present"
-        }
-      ],
-      "feedback": [],
-      "id": "yYDD8goKFQ8"
-    },
-    {
-      "name": "Mustafa Joudeh",
-      "email": "mjoudeh35@gmail.com",
-      "course": "JavaScript",
-      "status": "archived",
-      "phone": "0776315124",
-      "address": "Amman",
-      "age": 22,
-      "major": "CS",
-      "instructorId": 1,
-      "attendance": [
-        {
-          "date": "2026-10-03",
-          "status": "present"
-        }
-      ],
-      "feedback": [],
-      "id": "V_1QhzeClvg"
-    },
-    {
-      "name": "omar ali",
-      "email": "omar@gmail.com",
-      "course": "JavaScript",
-      "status": "archived",
-      "phone": "0797777777",
-      "address": "Irbid",
-      "age": 25,
-      "major": "CIS",
-      "instructorId": 1,
-      "attendance": [
-        {
-          "date": "2026-10-03",
-          "status": "present"
-        }
-      ],
-      "feedback": [],
-      "id": "GYuORDkc7fE"
-    },
-    {
-      "name": "Ali mohamad",
-      "email": "m@gmail.com",
-      "course": "JavaScript",
-      "status": "active",
-      "phone": "077777777",
-      "address": "Aqaba",
-      "age": 30,
-      "major": "Computer Engineering",
-      "instructorId": 1,
-      "attendance": [
-        {
-          "date": "2026-10-03",
-          "status": "present"
-        }
-      ],
-      "feedback": [],
-      "id": "hlkTyw3_noU"
     }
   ],
   "tasks": [
@@ -971,7 +1105,7 @@
       "course": "JavaScript",
       "description": "Add sign-up, login and protected routes using JWT and refresh tokens.",
       "week": 13,
-      "dueDate": "2026-10-02T23:59:00",
+      "dueDate": "2026-10-10T23:59:00",
       "points": 100,
       "status": "open"
     },
@@ -988,145 +1122,31 @@
       "status": "open"
     },
     {
-      "instructorId": 1,
-      "title": "build html website",
-      "type": "project",
-      "course": "HTML & CSS",
-      "description": "erthrutf",
-      "week": 1,
-      "dueDate": "2026-10-07T18:32",
-      "points": 100,
-      "status": "upcoming",
-      "id": "L4UPtKbBYLo"
-    },
-    {
-      "instructorId": 1,
-      "title": "build html website",
-      "type": "project",
-      "course": "JavaScript",
-      "description": "hdfxndnnfb",
-      "week": 1,
-      "dueDate": "2026-10-07T18:33",
-      "points": 100,
-      "status": "upcoming",
-      "id": "E9x7L_M7t1A"
-    },
-    {
-      "instructorId": 1,
-      "title": "build html & CSS website",
-      "type": "project",
-      "course": "HTML & CSS",
-      "description": "LJMHNGFBVDBHNJMK,UJH",
-      "week": 1,
-      "dueDate": "2026-10-05T18:37",
-      "points": 100,
-      "status": "upcoming",
-      "id": "b43Q3dhjAto"
-    },
-    {
-      "instructorId": 1,
-      "title": "build html & CSS website",
-      "type": "project",
-      "course": "HTML & CSS",
-      "description": "oihopjp]fdk[\\f",
-      "week": 1,
-      "dueDate": "2026-10-06T18:51",
-      "points": 100,
-      "status": "upcoming",
-      "id": "vqW4l8QDduY"
-    }
-  ],
-  "submissions": [
-    {
-      "id": "1",
-      "taskId": 1,
-      "studentId": 101,
-      "instructorId": 1,
-      "submittedAt": "2026-07-10T20:00:00",
-      "grade": 90,
-      "feedback": "test"
-    },
-    {
-      "id": "2",
-      "taskId": 1,
-      "studentId": 102,
-      "instructorId": 1,
-      "submittedAt": "2026-07-10T21:30:00",
-      "grade": 70,
-      "feedback": "Needs improvement"
-    },
-    {
-      "id": "3",
-      "taskId": 2,
-      "studentId": 101,
-      "instructorId": 1,
-      "submittedAt": "2026-07-17T18:00:00",
-      "grade": 16,
-      "feedback": "Good understanding"
-    },
-    {
-      "id": "4",
-      "taskId": 2,
-      "studentId": 102,
-      "instructorId": 1,
-      "submittedAt": "2026-07-17T19:00:00",
-      "grade": 11,
-      "feedback": "asdf"
-    },
-    {
-      "id": "5",
-      "taskId": 3,
-      "studentId": 101,
-      "instructorId": 1,
-      "submittedAt": "2026-07-24T20:00:00",
-      "grade": 50,
-      "feedback": "Very good DOM usage"
-    },
-    {
       "id": "6",
-      "taskId": 3,
-      "studentId": 102,
       "instructorId": 1,
-      "submittedAt": "2026-07-25T01:10:00",
-      "grade": 40,
-      "feedback": "Submitted late"
+      "title": "Fetch & async/await lab",
+      "type": "lab",
+      "course": "JavaScript",
+      "description": "Load and display data from a REST API using fetch and async/await.",
+      "week": 14,
+      "dueDate": "2026-10-13T23:59:00",
+      "points": 50,
+      "status": "open"
     },
     {
       "id": "7",
-      "taskId": 4,
-      "studentId": 101,
       "instructorId": 1,
-      "submittedAt": "2026-09-30T18:00:00",
-      "grade": 90,
-      "feedback": ""
-    },
-    {
-      "id": "8",
-      "taskId": 1,
-      "studentId": 104,
-      "instructorId": 1,
-      "submittedAt": "2026-07-10T22:00:00",
-      "grade": 91,
-      "feedback": "Good effort"
-    },
-    {
-      "id": "9",
-      "taskId": 2,
-      "studentId": 104,
-      "instructorId": 1,
-      "submittedAt": "2026-07-17T21:15:00",
-      "grade": 14,
-      "feedback": "Keep improving"
-    },
-    {
-      "id": "10",
-      "taskId": 4,
-      "studentId": 104,
-      "instructorId": 1,
-      "submittedAt": "2026-09-30T17:30:00",
-      "grade": 93,
-      "feedback": "JWT assignment submitted"
-    },
+      "title": "Final project: instructor dashboard",
+      "type": "project",
+      "course": "JavaScript",
+      "description": "Build a full instructor dashboard with login, students, grades and attendance.",
+      "week": 15,
+      "dueDate": "2026-10-20T23:59:00",
+      "points": 100,
+      "status": "upcoming"
+    }
+  ],
+  "submissions": [
     {
       "id": "11",
       "taskId": 1,
@@ -1178,8 +1198,8 @@
       "studentId": 106,
       "instructorId": 1,
       "submittedAt": "2026-09-30T19:30:00",
-      "grade": 79,
-      "feedback": "JWT assignment submitted"
+      "grade": null,
+      "feedback": ""
     },
     {
       "id": "17",
@@ -1207,33 +1227,6 @@
       "submittedAt": "2026-07-24T20:10:00",
       "grade": 40,
       "feedback": "DOM task reviewed"
-    },
-    {
-      "id": "20",
-      "taskId": 1,
-      "studentId": 108,
-      "instructorId": 1,
-      "submittedAt": "2026-07-10T21:00:00",
-      "grade": 78,
-      "feedback": "Good effort"
-    },
-    {
-      "id": "21",
-      "taskId": 2,
-      "studentId": 108,
-      "instructorId": 1,
-      "submittedAt": "2026-07-17T20:15:00",
-      "grade": 15,
-      "feedback": "Keep improving"
-    },
-    {
-      "id": "22",
-      "taskId": 4,
-      "studentId": 108,
-      "instructorId": 1,
-      "submittedAt": "2026-09-30T15:30:00",
-      "grade": 65,
-      "feedback": "JWT assignment submitted"
     },
     {
       "id": "23",
@@ -1286,8 +1279,8 @@
       "studentId": 110,
       "instructorId": 1,
       "submittedAt": "2026-09-30T17:30:00",
-      "grade": 87,
-      "feedback": "JWT assignment submitted"
+      "grade": null,
+      "feedback": ""
     },
     {
       "id": "29",
@@ -1340,35 +1333,8 @@
       "studentId": 112,
       "instructorId": 1,
       "submittedAt": "2026-09-30T19:30:00",
-      "grade": 73,
-      "feedback": "JWT assignment submitted"
-    },
-    {
-      "id": "35",
-      "taskId": 1,
-      "studentId": 113,
-      "instructorId": 1,
-      "submittedAt": "2026-07-10T21:00:00",
-      "grade": 72,
-      "feedback": "Good effort"
-    },
-    {
-      "id": "36",
-      "taskId": 2,
-      "studentId": 113,
-      "instructorId": 1,
-      "submittedAt": "2026-07-17T20:15:00",
-      "grade": 19,
-      "feedback": "Keep improving"
-    },
-    {
-      "id": "37",
-      "taskId": 3,
-      "studentId": 113,
-      "instructorId": 1,
-      "submittedAt": "2026-07-24T21:10:00",
-      "grade": 44,
-      "feedback": "DOM task reviewed"
+      "grade": null,
+      "feedback": ""
     },
     {
       "id": "38",
@@ -1403,8 +1369,8 @@
       "studentId": 114,
       "instructorId": 1,
       "submittedAt": "2026-09-30T15:30:00",
-      "grade": 95,
-      "feedback": "JWT assignment submitted"
+      "grade": null,
+      "feedback": ""
     },
     {
       "id": "42",
@@ -1423,33 +1389,6 @@
       "submittedAt": "2026-07-24T18:10:00",
       "grade": 28,
       "feedback": "DOM task reviewed"
-    },
-    {
-      "id": "44",
-      "taskId": 1,
-      "studentId": 116,
-      "instructorId": 1,
-      "submittedAt": "2026-07-10T19:00:00",
-      "grade": 93,
-      "feedback": "Good effort"
-    },
-    {
-      "id": "45",
-      "taskId": 2,
-      "studentId": 116,
-      "instructorId": 1,
-      "submittedAt": "2026-07-17T18:15:00",
-      "grade": 17,
-      "feedback": "Keep improving"
-    },
-    {
-      "id": "46",
-      "taskId": 4,
-      "studentId": 116,
-      "instructorId": 1,
-      "submittedAt": "2026-09-30T17:30:00",
-      "grade": 81,
-      "feedback": "JWT assignment submitted"
     },
     {
       "id": "47",
@@ -1511,8 +1450,8 @@
       "studentId": 118,
       "instructorId": 1,
       "submittedAt": "2026-09-30T19:30:00",
-      "grade": 67,
-      "feedback": "JWT assignment submitted"
+      "grade": null,
+      "feedback": ""
     },
     {
       "id": "54",
@@ -1695,69 +1634,6 @@
       "feedback": "DOM task reviewed"
     },
     {
-      "id": "74",
-      "taskId": 1,
-      "studentId": 126,
-      "instructorId": 1,
-      "submittedAt": "2026-07-10T19:00:00",
-      "grade": 81,
-      "feedback": "Good effort"
-    },
-    {
-      "id": "75",
-      "taskId": 2,
-      "studentId": 126,
-      "instructorId": 1,
-      "submittedAt": "2026-07-17T18:15:00",
-      "grade": 14,
-      "feedback": "Keep improving"
-    },
-    {
-      "id": "76",
-      "taskId": 3,
-      "studentId": 126,
-      "instructorId": 1,
-      "submittedAt": "2026-07-25T01:10:00",
-      "grade": 31,
-      "feedback": "DOM task reviewed"
-    },
-    {
-      "id": "77",
-      "taskId": 4,
-      "studentId": 126,
-      "instructorId": 1,
-      "submittedAt": "2026-09-30T15:30:00",
-      "grade": 83,
-      "feedback": "JWT assignment submitted"
-    },
-    {
-      "id": "78",
-      "taskId": 1,
-      "studentId": 127,
-      "instructorId": 1,
-      "submittedAt": "2026-07-10T20:00:00",
-      "grade": 88,
-      "feedback": "Good effort"
-    },
-    {
-      "id": "79",
-      "taskId": 2,
-      "studentId": 127,
-      "instructorId": 1,
-      "submittedAt": "2026-07-17T19:15:00",
-      "grade": 17,
-      "feedback": "Keep improving"
-    },
-    {
-      "id": "80",
-      "taskId": 3,
-      "studentId": 127,
-      "instructorId": 1,
-      "submittedAt": "2026-07-24T20:10:00",
-      "grade": 36,
-      "feedback": "DOM task reviewed"
-    },
-    {
       "id": "81",
       "taskId": 1,
       "studentId": 128,
@@ -1839,33 +1715,6 @@
       "feedback": "JWT assignment submitted"
     },
     {
-      "id": "90",
-      "taskId": 1,
-      "studentId": 131,
-      "instructorId": 1,
-      "submittedAt": "2026-07-10T19:00:00",
-      "grade": 75,
-      "feedback": "Good effort"
-    },
-    {
-      "id": "91",
-      "taskId": 2,
-      "studentId": 131,
-      "instructorId": 1,
-      "submittedAt": "2026-07-17T18:15:00",
-      "grade": 18,
-      "feedback": "Keep improving"
-    },
-    {
-      "id": "92",
-      "taskId": 3,
-      "studentId": 131,
-      "instructorId": 1,
-      "submittedAt": "2026-07-24T19:10:00",
-      "grade": 30,
-      "feedback": "DOM task reviewed"
-    },
-    {
       "id": "93",
       "taskId": 1,
       "studentId": 132,
@@ -1922,46 +1771,12 @@
   ],
   "activities": [
     {
-      "id": "1",
-      "instructorId": 1,
-      "studentId": 101,
-      "type": "grade_updated",
-      "message": "Sara Ahmad's grade was updated",
-      "date": "2026-09-30T18:00:00"
-    },
-    {
-      "id": "2",
-      "instructorId": 1,
-      "studentId": 102,
-      "type": "attendance_updated",
-      "message": "Omar Khaled's attendance was updated",
-      "date": "2026-09-30T18:30:00"
-    },
-    {
-      "id": "3",
-      "instructorId": 1,
-      "studentId": 101,
-      "taskId": 4,
-      "type": "submission_received",
-      "message": "Sara Ahmad submitted Auth with JWT",
-      "date": "2026-09-30T18:00:00"
-    },
-    {
-      "id": "4",
-      "instructorId": 1,
-      "studentId": 104,
-      "taskId": 4,
-      "type": "submission_received",
-      "message": "Ahmad Nasser submitted Auth with JWT",
-      "date": "2026-09-30T17:30:00"
-    },
-    {
       "id": "5",
       "instructorId": 1,
       "studentId": 105,
       "type": "attendance_updated",
       "message": "Dana Khaled's attendance was updated",
-      "date": "2026-09-30T14:20:00"
+      "date": "2026-10-07T11:20:00"
     },
     {
       "id": "6",
@@ -1970,7 +1785,7 @@
       "taskId": 4,
       "type": "submission_received",
       "message": "Faris Mahmoud submitted Auth with JWT",
-      "date": "2026-09-30T19:30:00"
+      "date": "2026-10-07T16:30:00"
     },
     {
       "id": "7",
@@ -1978,16 +1793,7 @@
       "studentId": 107,
       "type": "attendance_updated",
       "message": "Lina Ahmad's attendance was updated",
-      "date": "2026-09-30T16:20:00"
-    },
-    {
-      "id": "8",
-      "instructorId": 1,
-      "studentId": 108,
-      "taskId": 4,
-      "type": "submission_received",
-      "message": "Yazan Sami submitted Auth with JWT",
-      "date": "2026-09-30T15:30:00"
+      "date": "2026-10-07T13:20:00"
     },
     {
       "id": "9",
@@ -1995,7 +1801,7 @@
       "studentId": 109,
       "type": "attendance_updated",
       "message": "Rana Adel's attendance was updated",
-      "date": "2026-09-30T18:20:00"
+      "date": "2026-10-07T15:20:00"
     },
     {
       "id": "10",
@@ -2004,7 +1810,7 @@
       "taskId": 4,
       "type": "submission_received",
       "message": "Khaled Omar submitted Auth with JWT",
-      "date": "2026-09-30T17:30:00"
+      "date": "2026-10-07T14:30:00"
     },
     {
       "id": "11",
@@ -2012,7 +1818,7 @@
       "studentId": 111,
       "type": "attendance_updated",
       "message": "Sara Nabil's attendance was updated",
-      "date": "2026-09-30T20:20:00"
+      "date": "2026-10-07T17:20:00"
     },
     {
       "id": "12",
@@ -2021,15 +1827,7 @@
       "taskId": 4,
       "type": "submission_received",
       "message": "Tareq Ali submitted Auth with JWT",
-      "date": "2026-09-30T19:30:00"
-    },
-    {
-      "id": "13",
-      "instructorId": 1,
-      "studentId": 113,
-      "type": "attendance_updated",
-      "message": "Maya Yousef's attendance was updated",
-      "date": "2026-09-30T15:20:00"
+      "date": "2026-10-07T16:30:00"
     },
     {
       "id": "14",
@@ -2038,7 +1836,7 @@
       "taskId": 4,
       "type": "submission_received",
       "message": "Omar Fadi submitted Auth with JWT",
-      "date": "2026-09-30T15:30:00"
+      "date": "2026-10-07T12:30:00"
     },
     {
       "id": "15",
@@ -2046,16 +1844,7 @@
       "studentId": 115,
       "type": "attendance_updated",
       "message": "Hala Mohammad's attendance was updated",
-      "date": "2026-09-30T17:20:00"
-    },
-    {
-      "id": "16",
-      "instructorId": 1,
-      "studentId": 116,
-      "taskId": 4,
-      "type": "submission_received",
-      "message": "Ali Sameer submitted Auth with JWT",
-      "date": "2026-09-30T17:30:00"
+      "date": "2026-10-07T14:20:00"
     },
     {
       "id": "17",
@@ -2063,7 +1852,7 @@
       "studentId": 117,
       "type": "attendance_updated",
       "message": "Noor Hasan's attendance was updated",
-      "date": "2026-09-30T19:20:00"
+      "date": "2026-10-07T16:20:00"
     },
     {
       "id": "18",
@@ -2072,7 +1861,7 @@
       "taskId": 4,
       "type": "submission_received",
       "message": "Basel Naser submitted Auth with JWT",
-      "date": "2026-09-30T19:30:00"
+      "date": "2026-10-07T16:30:00"
     },
     {
       "id": "19",
@@ -2080,7 +1869,7 @@
       "studentId": 119,
       "type": "attendance_updated",
       "message": "Reem Khalil's attendance was updated",
-      "date": "2026-09-30T14:20:00"
+      "date": "2026-10-07T11:20:00"
     },
     {
       "id": "20",
@@ -2089,7 +1878,7 @@
       "taskId": 4,
       "type": "submission_received",
       "message": "Sami Abdullah submitted Auth with JWT",
-      "date": "2026-09-30T15:30:00"
+      "date": "2026-10-07T12:30:00"
     },
     {
       "id": "21",
@@ -2097,7 +1886,7 @@
       "studentId": 121,
       "type": "attendance_updated",
       "message": "Rami Ghassan's attendance was updated",
-      "date": "2026-09-30T16:20:00"
+      "date": "2026-10-07T13:20:00"
     },
     {
       "id": "22",
@@ -2106,7 +1895,7 @@
       "taskId": 4,
       "type": "submission_received",
       "message": "Jana Saleh submitted Auth with JWT",
-      "date": "2026-09-30T17:30:00"
+      "date": "2026-10-07T14:30:00"
     },
     {
       "id": "23",
@@ -2114,7 +1903,7 @@
       "studentId": 123,
       "type": "attendance_updated",
       "message": "Laith Hani's attendance was updated",
-      "date": "2026-09-30T18:20:00"
+      "date": "2026-10-07T15:20:00"
     },
     {
       "id": "24",
@@ -2123,7 +1912,7 @@
       "taskId": 4,
       "type": "submission_received",
       "message": "Malak Samer submitted Auth with JWT",
-      "date": "2026-09-30T19:30:00"
+      "date": "2026-10-07T16:30:00"
     },
     {
       "id": "25",
@@ -2131,24 +1920,7 @@
       "studentId": 125,
       "type": "attendance_updated",
       "message": "Zaid Mustafa's attendance was updated",
-      "date": "2026-09-30T20:20:00"
-    },
-    {
-      "id": "26",
-      "instructorId": 1,
-      "studentId": 126,
-      "taskId": 4,
-      "type": "submission_received",
-      "message": "Aya Mahmoud submitted Auth with JWT",
-      "date": "2026-09-30T15:30:00"
-    },
-    {
-      "id": "27",
-      "instructorId": 1,
-      "studentId": 127,
-      "type": "attendance_updated",
-      "message": "Yara Hassan's attendance was updated",
-      "date": "2026-09-30T15:20:00"
+      "date": "2026-10-07T17:20:00"
     },
     {
       "id": "28",
@@ -2157,7 +1929,7 @@
       "taskId": 4,
       "type": "submission_received",
       "message": "Fadi Qasem submitted Auth with JWT",
-      "date": "2026-09-30T17:30:00"
+      "date": "2026-10-07T14:30:00"
     },
     {
       "id": "29",
@@ -2165,7 +1937,7 @@
       "studentId": 129,
       "type": "attendance_updated",
       "message": "Rashed Amin's attendance was updated",
-      "date": "2026-09-30T17:20:00"
+      "date": "2026-10-07T14:20:00"
     },
     {
       "id": "30",
@@ -2174,15 +1946,7 @@
       "taskId": 4,
       "type": "submission_received",
       "message": "Mariam Adel submitted Auth with JWT",
-      "date": "2026-09-30T19:30:00"
-    },
-    {
-      "id": "31",
-      "instructorId": 1,
-      "studentId": 131,
-      "type": "attendance_updated",
-      "message": "Anas Saeed's attendance was updated",
-      "date": "2026-09-30T19:20:00"
+      "date": "2026-10-07T16:30:00"
     },
     {
       "id": "32",
@@ -2191,7 +1955,7 @@
       "taskId": 4,
       "type": "submission_received",
       "message": "Ruba Yasin submitted Auth with JWT",
-      "date": "2026-09-30T15:30:00"
+      "date": "2026-10-07T12:30:00"
     },
     {
       "id": "33",
@@ -2199,14 +1963,14 @@
       "studentId": 133,
       "type": "attendance_updated",
       "message": "Majd Hatem's attendance was updated",
-      "date": "2026-09-30T14:20:00"
+      "date": "2026-10-07T11:20:00"
     },
     {
       "instructorId": 1,
       "studentId": "106",
       "type": "attendance_updated",
       "message": "Faris Mahmoud's attendance was updated",
-      "date": "2026-10-02T14:59:42.434Z",
+      "date": "2026-10-09T14:59:42",
       "id": "zSY_iRX7BNc"
     },
     {
@@ -2214,7 +1978,7 @@
       "studentId": "128",
       "type": "attendance_updated",
       "message": "Fadi Qasem's attendance was updated",
-      "date": "2026-10-02T14:59:42.511Z",
+      "date": "2026-10-09T14:59:42",
       "id": "uJjFyM7OumE"
     },
     {
@@ -2222,7 +1986,7 @@
       "studentId": "129",
       "type": "attendance_updated",
       "message": "Rashed Amin's attendance was updated",
-      "date": "2026-10-02T14:59:42.513Z",
+      "date": "2026-10-09T14:59:42",
       "id": "8-QEChC_xcM"
     },
     {
@@ -2230,7 +1994,7 @@
       "studentId": "130",
       "type": "attendance_updated",
       "message": "Mariam Adel's attendance was updated",
-      "date": "2026-10-02T14:59:42.514Z",
+      "date": "2026-10-09T14:59:42",
       "id": "agU4_hoqS_w"
     },
     {
@@ -2238,7 +2002,7 @@
       "studentId": "123",
       "type": "attendance_updated",
       "message": "Laith Hani's attendance was updated",
-      "date": "2026-10-02T14:59:42.514Z",
+      "date": "2026-10-09T14:59:42",
       "id": "4ri5mH33p2o"
     },
     {
@@ -2246,7 +2010,7 @@
       "studentId": "107",
       "type": "attendance_updated",
       "message": "Lina Ahmad's attendance was updated",
-      "date": "2026-10-02T14:59:42.439Z",
+      "date": "2026-10-09T14:59:42",
       "id": "SdzV5eenqcQ"
     },
     {
@@ -2254,23 +2018,15 @@
       "studentId": "109",
       "type": "attendance_updated",
       "message": "Rana Adel's attendance was updated",
-      "date": "2026-10-02T14:59:42.440Z",
+      "date": "2026-10-09T14:59:42",
       "id": "EihYnAmHBXM"
-    },
-    {
-      "instructorId": 1,
-      "studentId": null,
-      "type": "attendance_updated",
-      "message": "Yazan Sami's attendance was updated",
-      "date": "2026-10-02T14:59:42.440Z",
-      "id": "6gTWH6e-CLw"
     },
     {
       "instructorId": 1,
       "studentId": "110",
       "type": "attendance_updated",
       "message": "Khaled Omar's attendance was updated",
-      "date": "2026-10-02T14:59:42.441Z",
+      "date": "2026-10-09T14:59:42",
       "id": "WKJwD2zCo8Y"
     },
     {
@@ -2278,7 +2034,7 @@
       "studentId": "105",
       "type": "attendance_updated",
       "message": "Dana Khaled's attendance was updated",
-      "date": "2026-10-02T14:59:42.441Z",
+      "date": "2026-10-09T14:59:42",
       "id": "_rLwrY181sA"
     },
     {
@@ -2286,23 +2042,15 @@
       "studentId": "112",
       "type": "attendance_updated",
       "message": "Tareq Ali's attendance was updated",
-      "date": "2026-10-02T14:59:42.460Z",
+      "date": "2026-10-09T14:59:42",
       "id": "RcqJTDlr1UM"
-    },
-    {
-      "instructorId": 1,
-      "studentId": null,
-      "type": "attendance_updated",
-      "message": "Maya Yousef's attendance was updated",
-      "date": "2026-10-02T14:59:42.464Z",
-      "id": "WsYtxCIQ26Q"
     },
     {
       "instructorId": 1,
       "studentId": "115",
       "type": "attendance_updated",
       "message": "Hala Mohammad's attendance was updated",
-      "date": "2026-10-02T14:59:42.465Z",
+      "date": "2026-10-09T14:59:42",
       "id": "fvzdK0kCXb0"
     },
     {
@@ -2310,23 +2058,15 @@
       "studentId": "114",
       "type": "attendance_updated",
       "message": "Omar Fadi's attendance was updated",
-      "date": "2026-10-02T14:59:42.465Z",
+      "date": "2026-10-09T14:59:42",
       "id": "TftyeL1Ww78"
-    },
-    {
-      "instructorId": 1,
-      "studentId": null,
-      "type": "attendance_updated",
-      "message": "Ali Sameer's attendance was updated",
-      "date": "2026-10-02T14:59:42.467Z",
-      "id": "AMyAB3Mka-8"
     },
     {
       "instructorId": 1,
       "studentId": "120",
       "type": "attendance_updated",
       "message": "Sami Abdullah's attendance was updated",
-      "date": "2026-10-02T14:59:42.488Z",
+      "date": "2026-10-09T14:59:42",
       "id": "eGJ5joMe0qY"
     },
     {
@@ -2334,7 +2074,7 @@
       "studentId": "122",
       "type": "attendance_updated",
       "message": "Jana Saleh's attendance was updated",
-      "date": "2026-10-02T14:59:42.490Z",
+      "date": "2026-10-09T14:59:42",
       "id": "N-awJqYG-kg"
     },
     {
@@ -2342,7 +2082,7 @@
       "studentId": "117",
       "type": "attendance_updated",
       "message": "Noor Hasan's attendance was updated",
-      "date": "2026-10-02T14:59:42.490Z",
+      "date": "2026-10-09T14:59:42",
       "id": "pTOHbJbcS3s"
     },
     {
@@ -2350,7 +2090,7 @@
       "studentId": "124",
       "type": "attendance_updated",
       "message": "Malak Samer's attendance was updated",
-      "date": "2026-10-02T14:59:42.507Z",
+      "date": "2026-10-09T14:59:42",
       "id": "K6HRlU8qKnk"
     },
     {
@@ -2358,7 +2098,7 @@
       "studentId": "125",
       "type": "attendance_updated",
       "message": "Zaid Mustafa's attendance was updated",
-      "date": "2026-10-02T14:59:42.510Z",
+      "date": "2026-10-09T14:59:42",
       "id": "9tX-G4lwMv8"
     },
     {
@@ -2366,7 +2106,7 @@
       "studentId": "133",
       "type": "attendance_updated",
       "message": "Majd Hatem's attendance was updated",
-      "date": "2026-10-02T14:59:42.548Z",
+      "date": "2026-10-09T14:59:42",
       "id": "5Iv15ucaCEA"
     },
     {
@@ -2374,7 +2114,7 @@
       "studentId": "132",
       "type": "attendance_updated",
       "message": "Ruba Yasin's attendance was updated",
-      "date": "2026-10-02T14:59:42.612Z",
+      "date": "2026-10-09T14:59:42",
       "id": "tLR3StuNaJk"
     },
     {
@@ -2382,7 +2122,7 @@
       "studentId": "106",
       "type": "attendance_updated",
       "message": "Faris Mahmoud's attendance was updated",
-      "date": "2026-10-02T14:59:50.422Z",
+      "date": "2026-10-09T14:59:50",
       "id": "3SVwnY3bHQc"
     },
     {
@@ -2390,7 +2130,7 @@
       "studentId": "110",
       "type": "attendance_updated",
       "message": "Khaled Omar's attendance was updated",
-      "date": "2026-10-02T14:59:50.424Z",
+      "date": "2026-10-09T14:59:50",
       "id": "yJitQhGMI-s"
     },
     {
@@ -2398,7 +2138,7 @@
       "studentId": "105",
       "type": "attendance_updated",
       "message": "Dana Khaled's attendance was updated",
-      "date": "2026-10-02T14:59:50.425Z",
+      "date": "2026-10-09T14:59:50",
       "id": "y8qKwIit5NI"
     }
   ],

@@ -4,7 +4,7 @@
 // Used by: js/pages/registrationPage.js
 // =====================================================
 
-const INSTRUCTORS_URL = "http://localhost:3000/instructors";
+const INSTRUCTORS_URL = (window.API_URL ?? "http://localhost:3000") + "/instructors";
 
 
 // =====================================================

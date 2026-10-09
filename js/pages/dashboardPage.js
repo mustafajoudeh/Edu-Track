@@ -12,7 +12,7 @@ import {
 import { getLayout } from "./layout.js";
 
 // ===================== Config =====================
-const API = "http://localhost:3000";
+const API = window.API_URL ?? "http://localhost:3000";
 // Saved by the login page. Falls back to 1 while testing.
 const currentInstructor =
   JSON.parse(localStorage.getItem("currentInstructor")) ||

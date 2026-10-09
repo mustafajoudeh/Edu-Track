@@ -29,7 +29,7 @@ try {
     console.error(error);
     document.getElementById("task-details").innerHTML = `
         <p class="empty-state">
-            Could not load data. Make sure json-server is running on http://localhost:3000
+            Could not load data. Please refresh the page and try again.
         </p>
     `;
 }
